@@ -4,21 +4,21 @@ console.log(firstName)
 console.log(typeof firstName)
 
 //Company name
-var companyName ="xyzcompany"
+let companyName ="xyzcompany"
 console.log(companyName)
 console.log(typeof companyName)
 
 //Mobile number
-var mobileNumber=123456789
+const mobileNumber=123456789
 console.log(mobileNumber)
 console.log(typeof mobileNumber)
 
 //IsAutomation
-var isAutomation=true
+let isAutomation=true
 console.log(isAutomation)
 console.log(typeof isAutomation)
 
 //hasPlaywright
-var hasPlaywright
+let hasPlaywright
 console.log(hasPlaywright)
 console.log(typeof hasPlaywright)
